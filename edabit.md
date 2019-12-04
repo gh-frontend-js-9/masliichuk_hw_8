@@ -5,7 +5,14 @@ a)  https://edabit.com/challenge/PKiTjA7SLK99ZZ8GK
 
 b)	https://edabit.com/challenge/xXJLZry3vYd4erPct
 	http://joxi.ru/D2P5g1OcqMNL7A
+
 2. Arrays
+
+a)	https://edabit.com/challenge/erFxBbqzZPSegMwnc
+	http://joxi.ru/EA4PdE8todR30A
+
+b)	https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
+	http://joxi.ru/Y2LJlnZi73lnOr
 3. Loops
 4. Functional Programming
 5. Scope
