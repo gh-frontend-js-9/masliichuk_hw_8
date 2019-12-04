@@ -13,7 +13,15 @@ a)	https://edabit.com/challenge/erFxBbqzZPSegMwnc
 
 b)	https://edabit.com/challenge/4aaBNPnFMc3bzR7JR
 	http://joxi.ru/Y2LJlnZi73lnOr
+
 3. Loops
+
+a)	https://edabit.com/challenge/QtcPzxgcZJQdsfdMS
+	http://joxi.ru/gmv41kPtqp3oXA
+
+b)	https://edabit.com/challenge/ZN5cpGPNRS3nrjMo5
+	http://joxi.ru/Grq4l3Pt417ylA
+	
 4. Functional Programming
 5. Scope
 6. Objects
